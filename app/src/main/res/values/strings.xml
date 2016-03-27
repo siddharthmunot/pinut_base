@@ -368,5 +368,6 @@
     <string name="title_activity_auto_connect">AutoConnectActivity</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_server_discovery">ServerDiscoveryActivity</string>
+    <string name="title_activity_video_view">VideoViewActivity</string>
 
 </resources>

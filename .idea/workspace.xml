@@ -30,12 +30,12 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: org.wiflick.wiflickhome" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c5025c4-4cb3-4d3f-8667-90c726d81c2c" name="Default" comment="Intro page changes">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/jsonrpc/HostConnection.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/jsonrpc/HostConnection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/ServerDiscoveryActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/ServerDiscoveryActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+    <list default="true" id="2c5025c4-4cb3-4d3f-8667-90c726d81c2c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AlbumDetailsFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AlbumDetailsFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MovieDetailsFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MovieDetailsFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WiFlickHome.iws" />
@@ -64,110 +64,148 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ServerDiscoveryActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/ServerDiscoveryActivity.java">
+      <file leaf-file-name="VideoViewActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/VideoViewActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="7797" max-vertical-offset="9452">
-              <caret line="472" column="8" selection-start-line="472" selection-start-column="8" selection-end-line="472" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="353" max-vertical-offset="1292">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4903#7002#0" expanded="true" />
-                <element signature="e#6212#6686#0" expanded="true" />
-                <element signature="e#6655#6656#0" expanded="true" />
-                <element signature="e#6991#6992#0" expanded="true" />
-                <element signature="e#9117#9170#0" expanded="true" />
-                <element signature="e#13973#14576#0" expanded="true" />
-                <element signature="e#14553#14554#0" expanded="true" />
-                <element signature="e#15262#16021#0" expanded="true" />
-                <element signature="e#15528#15987#0" expanded="true" />
-                <element signature="e#15964#15965#0" expanded="true" />
-                <element signature="e#16006#16007#0" expanded="true" />
+                <element signature="e#2269#2499#0" expanded="true" />
+                <element signature="e#2488#2489#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LibrarySyncService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/service/LibrarySyncService.java">
+      <file leaf-file-name="MovieDetailsFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MovieDetailsFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="22457" max-vertical-offset="22882">
-              <caret line="1321" column="0" selection-start-line="1321" selection-start-column="0" selection-end-line="1321" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1156" max-vertical-offset="1513">
-              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApiMethod.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/jsonrpc/ApiMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="952" max-vertical-offset="4896">
-              <caret line="56" column="74" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HostConnection.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/jsonrpc/HostConnection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="6239" max-vertical-offset="14501">
-              <caret line="433" column="8" selection-start-line="433" selection-start-column="8" selection-end-line="433" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="4356" max-vertical-offset="11441">
+              <caret line="353" column="42" selection-start-line="351" selection-start-column="19" selection-end-line="353" selection-end-column="42" />
               <folding>
-                <element signature="e#16608#16786#0" expanded="true" />
-                <element signature="e#16767#16768#0" expanded="true" />
-                <element signature="e#16980#17177#0" expanded="true" />
-                <element signature="e#17158#17159#0" expanded="true" />
+                <element signature="e#6425#6483#0" expanded="true" />
+                <element signature="e#6553#6877#0" expanded="true" />
+                <element signature="e#6866#6867#0" expanded="true" />
+                <element signature="e#12424#12462#0" expanded="true" />
+                <element signature="e#12628#12652#0" expanded="true" />
+                <element signature="e#12966#13000#0" expanded="true" />
+                <element signature="e#14404#14438#0" expanded="true" />
+                <element signature="e#16056#16087#0" expanded="true" />
+                <element signature="e#16462#16496#0" expanded="true" />
+                <element signature="e#16705#16734#0" expanded="true" />
+                <element signature="e#17047#17081#0" expanded="true" />
+                <element signature="e#18590#18619#0" expanded="true" />
+                <element signature="e#19205#19222#0" expanded="true" />
+                <element signature="e#19256#19285#0" expanded="true" />
+                <element signature="e#19326#19344#0" expanded="true" />
+                <element signature="e#19374#19868#0" expanded="true" />
+                <element signature="e#19837#19838#0" expanded="true" />
+                <element signature="e#19908#19939#0" expanded="true" />
+                <element signature="e#19969#20470#0" expanded="true" />
+                <element signature="e#20439#20440#0" expanded="true" />
+                <element signature="e#20783#20800#0" expanded="true" />
+                <element signature="e#20834#20865#0" expanded="true" />
+                <element signature="e#20955#21449#0" expanded="true" />
+                <element signature="e#21418#21419#0" expanded="true" />
+                <element signature="e#22145#22179#0" expanded="true" />
+                <element signature="e#22847#22883#0" expanded="true" />
+                <element signature="e#23061#23086#0" expanded="true" />
+                <element signature="e#23878#23945#0" expanded="true" />
+                <element signature="e#23974#24042#0" expanded="true" />
+                <element signature="e#24278#24343#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AudioLibrary.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/jsonrpc/method/AudioLibrary.java">
+      <file leaf-file-name="AlbumDetailsFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AlbumDetailsFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3910" max-vertical-offset="5202">
-              <caret line="230" column="51" selection-start-line="230" selection-start-column="51" selection-end-line="230" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="8351" max-vertical-offset="13328">
+              <caret line="529" column="42" selection-start-line="529" selection-start-column="42" selection-end-line="529" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#35208#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#22469#22507#0" expanded="true" />
+                <element signature="e#22672#22696#0" expanded="true" />
+                <element signature="e#23010#23044#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArtistListFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/ArtistListFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="3315">
+              <caret line="56" column="45" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HostInfo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/host/HostInfo.java">
+      <file leaf-file-name="MusicActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MusicActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="4131" max-vertical-offset="4420">
-              <caret line="243" column="9" selection-start-line="243" selection-start-column="9" selection-end-line="243" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="4063" max-vertical-offset="4964">
+              <caret line="281" column="55" selection-start-line="281" selection-start-column="55" selection-end-line="281" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivityNew.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/MainActivityNew.java">
+      <file leaf-file-name="AlbumListFragment.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AlbumListFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="2635">
-              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.2777778" vertical-offset="0" max-vertical-offset="4556">
+              <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VideoLibrary.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/jsonrpc/method/VideoLibrary.java">
+      <file leaf-file-name="MusicVideoDetailsFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MusicVideoDetailsFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6728972" vertical-offset="3214" max-vertical-offset="7208">
-              <caret line="245" column="13" selection-start-line="245" selection-start-column="13" selection-end-line="245" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2366" max-vertical-offset="8007">
+              <caret line="151" column="57" selection-start-line="151" selection-start-column="57" selection-end-line="151" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#19536#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MediaPlayerUtils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/utils/MediaPlayerUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="1989">
+              <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractListFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AbstractListFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1628" max-vertical-offset="4114">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicListFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MusicListFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="765">
+              <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+              <folding>
+                <element signature="e#2738#2754#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1383,8 +1421,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner_movies.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner_pressed_movies.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner_music.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner_pressed_music.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner_tvshows.xml" />
@@ -1406,7 +1442,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_music_video_details.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MusicVideoDetailsFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/TVShowEpisodeDetailsFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MovieDetailsFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/intro_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main_new.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/MovieFragment.java" />
@@ -1414,7 +1449,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/main_fragment.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/MainActivityFragments.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item_song.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AlbumDetailsFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_album_details.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/grid_item_file.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
@@ -1434,6 +1468,10 @@
         <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/jsonrpc/method/VideoLibrary.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/ServerDiscoveryActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/jsonrpc/HostConnection.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_video_view.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/VideoViewActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MovieDetailsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AlbumDetailsFragment.java" />
       </list>
     </option>
   </component>
@@ -1455,7 +1493,7 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
+    <option name="x" value="-15" />
     <option name="width" value="1382" />
     <option name="height" value="730" />
   </component>
@@ -1510,6 +1548,228 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="wiflickhome" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nutlabs_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nutlabs_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nutlabs_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nutlabs_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nutlabs_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nutlabs_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nutlabs_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nutlabs_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wiflickhome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nutlabs_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1614,7 +1874,7 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$SDK_ROOT$" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="4d0078654ea641d9" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="04e3860409d38ef4" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_21_x86" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
@@ -1846,11 +2106,15 @@
       <created>1449076559238</created>
       <updated>1449076559238</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sync Issue Changes">
+      <created>1459078066480</created>
+      <updated>1459078066480</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1382" height="730" extended-state="0" />
+    <frame x="-15" y="0" width="1382" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
@@ -1860,29 +2124,29 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.024205748" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20418848" sideWeight="0.11043873" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41710296" sideWeight="0.11043873" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24815905" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2897033" sideWeight="0.5574887" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.4970545" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20418848" sideWeight="0.8895613" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41710296" sideWeight="0.8895613" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28449744" sideWeight="0.16187595" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27231467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2408377" sideWeight="0.50075644" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1943958" sideWeight="0.75113463" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28795812" sideWeight="0.75113463" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24815905" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22241682" sideWeight="0.50075644" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -1908,20 +2172,15 @@
     </option>
     <MESSAGE value="making changes for home/car user" />
     <MESSAGE value="Intro page changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Intro page changes" />
+    <MESSAGE value="Sync Issue Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sync Issue Changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MovieDetailsFragment.java</url>
-          <line>307</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AlbumDetailsFragment.java</url>
-          <line>505</line>
+          <line>506</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
@@ -1932,97 +2191,10 @@
           <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="55" />
+      <option name="time" value="58" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/FileListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="935" max-vertical-offset="1870">
-          <caret line="55" column="64" selection-start-line="55" selection-start-column="64" selection-end-line="55" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/PlaylistFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="8901" max-vertical-offset="10659">
-          <caret line="595" column="7" selection-start-line="595" selection-start-column="7" selection-end-line="595" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3448" max-vertical-offset="6426">
-          <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_movie_details.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="4760">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AbstractDetailsFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="3859">
-          <caret line="45" column="55" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MovieDetailsFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="12784">
-          <caret line="78" column="27" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_server_discovery.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="284" max-vertical-offset="697">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_navigation_drawer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8969697" vertical-offset="197" max-vertical-offset="595">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MediaFileListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="9605" max-vertical-offset="11917">
-          <caret line="647" column="18" selection-start-line="647" selection-start-column="18" selection-end-line="647" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/hosts/AddHostActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="2397">
-          <caret line="35" column="28" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/RemoteActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="693" max-vertical-offset="10217">
-          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/hosts/HostListFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="5610">
@@ -2264,27 +2436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/ServerDiscoveryActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="7797" max-vertical-offset="9452">
-          <caret line="472" column="8" selection-start-line="472" selection-start-column="8" selection-end-line="472" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4903#7002#0" expanded="true" />
-            <element signature="e#6212#6686#0" expanded="true" />
-            <element signature="e#6655#6656#0" expanded="true" />
-            <element signature="e#6991#6992#0" expanded="true" />
-            <element signature="e#9117#9170#0" expanded="true" />
-            <element signature="e#13973#14576#0" expanded="true" />
-            <element signature="e#14553#14554#0" expanded="true" />
-            <element signature="e#15262#16021#0" expanded="true" />
-            <element signature="e#15528#15987#0" expanded="true" />
-            <element signature="e#15964#15965#0" expanded="true" />
-            <element signature="e#16006#16007#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/jsonrpc/HostConnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="6239" max-vertical-offset="14501">
@@ -2300,8 +2451,166 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/jsonrpc/method/VideoLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6728972" vertical-offset="3214" max-vertical-offset="7208">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3214" max-vertical-offset="7208">
           <caret line="245" column="13" selection-start-line="245" selection-start-column="13" selection-end-line="245" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_video_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.814815" vertical-offset="0" max-vertical-offset="391">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/ServerDiscoveryActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.607143" vertical-offset="7827" max-vertical-offset="9452">
+          <caret line="468" column="71" selection-start-line="468" selection-start-column="7" selection-end-line="468" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4903#7002#0" expanded="false" />
+            <element signature="e#6212#6686#0" expanded="false" />
+            <element signature="e#6655#6656#0" expanded="false" />
+            <element signature="e#6991#6992#0" expanded="false" />
+            <element signature="e#9117#9170#0" expanded="false" />
+            <element signature="e#13973#14576#0" expanded="false" />
+            <element signature="e#14553#14554#0" expanded="false" />
+            <element signature="e#15262#16021#0" expanded="false" />
+            <element signature="e#15528#15987#0" expanded="false" />
+            <element signature="e#15964#15965#0" expanded="false" />
+            <element signature="e#16006#16007#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/VideoViewActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="353" max-vertical-offset="1292">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2269#2499#0" expanded="true" />
+            <element signature="e#2488#2489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/utils/MediaPlayerUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="1989">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AbstractListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1628" max-vertical-offset="4114">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MusicListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="765">
+          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+          <folding>
+            <element signature="e#2738#2754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/ArtistListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="3315">
+          <caret line="56" column="45" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MovieDetailsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4356" max-vertical-offset="11441">
+          <caret line="353" column="42" selection-start-line="351" selection-start-column="19" selection-end-line="353" selection-end-column="42" />
+          <folding>
+            <element signature="e#6425#6483#0" expanded="true" />
+            <element signature="e#6553#6877#0" expanded="true" />
+            <element signature="e#6866#6867#0" expanded="true" />
+            <element signature="e#12424#12462#0" expanded="true" />
+            <element signature="e#12628#12652#0" expanded="true" />
+            <element signature="e#12966#13000#0" expanded="true" />
+            <element signature="e#14404#14438#0" expanded="true" />
+            <element signature="e#16056#16087#0" expanded="true" />
+            <element signature="e#16462#16496#0" expanded="true" />
+            <element signature="e#16705#16734#0" expanded="true" />
+            <element signature="e#17047#17081#0" expanded="true" />
+            <element signature="e#18590#18619#0" expanded="true" />
+            <element signature="e#19205#19222#0" expanded="true" />
+            <element signature="e#19256#19285#0" expanded="true" />
+            <element signature="e#19326#19344#0" expanded="true" />
+            <element signature="e#19374#19868#0" expanded="true" />
+            <element signature="e#19837#19838#0" expanded="true" />
+            <element signature="e#19908#19939#0" expanded="true" />
+            <element signature="e#19969#20470#0" expanded="true" />
+            <element signature="e#20439#20440#0" expanded="true" />
+            <element signature="e#20783#20800#0" expanded="true" />
+            <element signature="e#20834#20865#0" expanded="true" />
+            <element signature="e#20955#21449#0" expanded="true" />
+            <element signature="e#21418#21419#0" expanded="true" />
+            <element signature="e#22145#22179#0" expanded="true" />
+            <element signature="e#22847#22883#0" expanded="true" />
+            <element signature="e#23061#23086#0" expanded="true" />
+            <element signature="e#23878#23945#0" expanded="true" />
+            <element signature="e#23974#24042#0" expanded="true" />
+            <element signature="e#24278#24343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AlbumDetailsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8351" max-vertical-offset="13328">
+          <caret line="529" column="42" selection-start-line="529" selection-start-column="42" selection-end-line="529" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#35208#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#22469#22507#0" expanded="true" />
+            <element signature="e#22672#22696#0" expanded="true" />
+            <element signature="e#23010#23044#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MusicVideoDetailsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2366" max-vertical-offset="8007">
+          <caret line="151" column="57" selection-start-line="151" selection-start-column="57" selection-end-line="151" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#19536#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/MusicActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4063" max-vertical-offset="4964">
+          <caret line="281" column="55" selection-start-line="281" selection-start-column="55" selection-end-line="281" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/wiflick/wiflickhome/kore/ui/AlbumListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2777778" vertical-offset="0" max-vertical-offset="4556">
+          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
           <folding />
         </state>
       </provider>

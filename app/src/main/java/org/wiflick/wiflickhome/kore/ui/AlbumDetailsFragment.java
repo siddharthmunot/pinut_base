@@ -50,6 +50,7 @@ import android.widget.Toast;
 import com.melnykov.fab.FloatingActionButton;
 import com.melnykov.fab.ObservableScrollView;
 import org.wiflick.wiflickhome.R;
+import org.wiflick.wiflickhome.VideoViewActivity;
 import org.wiflick.wiflickhome.dlna.MimeTypeMap;
 import org.wiflick.wiflickhome.kore.Settings;
 import org.wiflick.wiflickhome.kore.host.HostInfo;
@@ -517,11 +518,15 @@ public class AlbumDetailsFragment extends Fragment
                 Uri uri = Uri.parse(hostInfo.getHttpURL() + "/" + result.path);
                 Log.i(TAG, "URI:" + uri);
                 try {
-                    MimeTypeMap mime = MimeTypeMap.getSingleton();
+                    /*MimeTypeMap mime = MimeTypeMap.getSingleton();
                     String type = mime.getMimeTypeFromUrl(uri.toString());
                     Intent intent = new Intent();
                     intent.setAction(android.content.Intent.ACTION_VIEW);
                     intent.setDataAndType(uri, type);
+                    startActivity(intent);
+                    */
+                    Intent intent = new Intent(getActivity().getApplicationContext(), VideoViewActivity.class);
+                    intent.putExtra("url", uri.toString());
                     startActivity(intent);
                 } catch(NullPointerException ex) {
                     Toast.makeText(getActivity(), R.string.info_could_not_start_activity, Toast.LENGTH_SHORT)

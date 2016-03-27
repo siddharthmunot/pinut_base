@@ -140,6 +140,7 @@
             android:name=".ServerDiscoveryActivity"
             android:label="@string/title_activity_server_discovery" >
         </activity>
+
         <receiver
             android:name=".WiFiConnectionListener"
             android:enabled="true"
@@ -149,6 +150,10 @@
             </intent-filter>
         </receiver>
 
+        <activity
+            android:name=".VideoViewActivity"
+            android:label="@string/title_activity_video_view" >
+        </activity>
     </application>
 
 </manifest>
