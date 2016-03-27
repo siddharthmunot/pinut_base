@@ -468,9 +468,9 @@ public class ServerDiscoveryActivity extends BaseActivity {
         // Start the syncing process
         Intent syncIntent = new Intent(this, LibrarySyncService.class);
         syncIntent.putExtra(LibrarySyncService.SYNC_ALL_MOVIES, true);
-        //syncIntent.putExtra(LibrarySyncService.SYNC_ALL_TVSHOWS, true);
-        //syncIntent.putExtra(LibrarySyncService.SYNC_ALL_MUSIC, true);
-        //syncIntent.putExtra(LibrarySyncService.SYNC_ALL_MUSIC_VIDEOS, true);
+        syncIntent.putExtra(LibrarySyncService.SYNC_ALL_TVSHOWS, true);
+        syncIntent.putExtra(LibrarySyncService.SYNC_ALL_MUSIC, true);
+        syncIntent.putExtra(LibrarySyncService.SYNC_ALL_MUSIC_VIDEOS, true);
         this.startService(syncIntent);
 
         //Launch the main activity

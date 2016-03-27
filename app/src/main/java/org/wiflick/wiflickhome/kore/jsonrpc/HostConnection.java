@@ -422,7 +422,7 @@ public class HostConnection {
                                           final Handler handler) {
         OkHttpClient client = getOkHttpClient();
         String jsonRequest = method.toJsonString();
-        if( method.getMethodName().contains("GetMovies")){
+        /*if( method.getMethodName().contains("GetMovies")){
             ObjectNode jsonRequest1;
             ObjectMapper objectMapper1 = new ObjectMapper();
             jsonRequest1 = objectMapper1.createObjectNode();
@@ -431,7 +431,7 @@ public class HostConnection {
             jsonRequest1.put("id", method.getId());
             jsonRequest=jsonRequest1.toString();
         }
-
+        */
         try {
             Request request = new Request.Builder()
                     .url(hostInfo.getJsonRpcHttpEndpoint())

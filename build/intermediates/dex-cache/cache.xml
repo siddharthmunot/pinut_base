@@ -2,39 +2,18 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.seamless\seamless-xml\1.0-alpha3\9ac5632cdb5a1c40c511ba7e9177102df08f3fa5\seamless-xml-1.0-alpha3.jar"
+        jar="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="9ac5632cdb5a1c40c511ba7e9177102df08f3fa5">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\seamless-xml-1.0-alpha3-f34719355daa777d111667707001fd7b33274eb7.jar" />
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-3885d6b124599e95e4c5e47799533b6746e8dde6.jar" />
     </item>
     <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty.orbit\javax.servlet\3.0.0.v201112011016\aaaa85845fb5c59da00193f06b8e5278d8bf3f8\javax.servlet-3.0.0.v201112011016.jar"
+        jar="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="0aaaa85845fb5c59da00193f06b8e5278d8bf3f8">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\javax.servlet-3.0.0.v201112011016-b467668d5718a019d27ed8ac3e8071653c04e743.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\classes-eafda1fb4e86d962c3ae4323ef74e0eef94af3cc.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-util\8.1.12.v20130726\255cb3b9a415146252796915d8dc3c3745ff1eb6\jetty-util-8.1.12.v20130726.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="255cb3b9a415146252796915d8dc3c3745ff1eb6">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-util-8.1.12.v20130726-4aa8d04c79bf6672dfe6939747397f6808cb4615.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.seamless\seamless-http\1.0-alpha3\6196b54e06afdfed98639af60ffaf246f258259c\seamless-http-1.0-alpha3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6196b54e06afdfed98639af60ffaf246f258259c">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\seamless-http-1.0-alpha3-7e668e8bea092c506f5e7c19e05cb0521540df56.jar" />
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\pre-dexed\debug\classes-c92102a3b1c28c97fa27356de510e534766a6849.jar" />
     </item>
     <item
         jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
@@ -44,11 +23,95 @@
         <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\okio-1.3.0-016a46a9727de2273724f6e035084bd67c68e86d.jar" />
     </item>
     <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.seamless\seamless-xml\1.0-alpha3\9ac5632cdb5a1c40c511ba7e9177102df08f3fa5\seamless-xml-1.0-alpha3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9ac5632cdb5a1c40c511ba7e9177102df08f3fa5">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\seamless-xml-1.0-alpha3-f34719355daa777d111667707001fd7b33274eb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\classes-eafda1fb4e86d962c3ae4323ef74e0eef94af3cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty.orbit\javax.servlet\3.0.0.v201112011016\aaaa85845fb5c59da00193f06b8e5278d8bf3f8\javax.servlet-3.0.0.v201112011016.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0aaaa85845fb5c59da00193f06b8e5278d8bf3f8">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\javax.servlet-3.0.0.v201112011016-b467668d5718a019d27ed8ac3e8071653c04e743.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.seamless\seamless-http\1.0-alpha3\6196b54e06afdfed98639af60ffaf246f258259c\seamless-http-1.0-alpha3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6196b54e06afdfed98639af60ffaf246f258259c">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\seamless-http-1.0-alpha3-7e668e8bea092c506f5e7c19e05cb0521540df56.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-server\8.1.12.v20130726\e8d89c85edd00680a7b30bf219e6dba181dc4aa1\jetty-server-8.1.12.v20130726.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e8d89c85edd00680a7b30bf219e6dba181dc4aa1">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-server-8.1.12.v20130726-f0583903946c76c8a5eb3ace7a17c9d683f972a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.5.2\2b4dd13fbe6f8c6b146d4c3b7fd70862f136802d\jackson-databind-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2b4dd13fbe6f8c6b146d4c3b7fd70862f136802d">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jackson-databind-2.5.2-f1b225dd76413c1feff5ff5925901027c86d486a.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.5\6b262da268f8ad9eff941b25503a9198f0a0ac93\slf4j-api-1.7.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\slf4j-api-1.7.5-9ab239660919d1d0f227233af0dc6bed0f765fb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\pre-dexed\debug\classes-a042d2dbdb034677f525310de479cd8fb0e85cc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\butterknife-6.1.0-2f6bd03c9667b71cbd9a3d8a6a1aa9a250a1aa8d.jar" />
+    </item>
+    <item
         jar="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
         <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\classes-7ddb157276649df2dc92a49e5d4128e8a86cc6bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\pre-dexed\debug\classes-9214d522ca2671b1a7010cda1afe5c5503cf036a.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.seamless\seamless-swing\1.0-alpha3\ed1cf8b8b3a7650d158d7f22c886c90702a61d60\seamless-swing-1.0-alpha3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ed1cf8b8b3a7650d158d7f22c886c90702a61d60">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\seamless-swing-1.0-alpha3-7f03cdfb8d64bae5212549786e413ff71869b847.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.fourthline.cling\cling-core\2.0-alpha3\965e550cb1e67af1f0c7f6634f600ab8c5c1ce3f\cling-core-2.0-alpha3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="965e550cb1e67af1f0c7f6634f600ab8c5c1ce3f">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\cling-core-2.0-alpha3-e1bcef09abc8a73aa0dfce7f798341011624fa94.jar" />
     </item>
     <item
         jar="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
@@ -58,74 +121,11 @@
         <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\classes-724f107ad591b854bc6d552d8fabcb9516c4cb0c.jar" />
     </item>
     <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-jdk14\1.7.5\33cf4abac351aa45dd130d31a1e7e33fbbba4762\slf4j-jdk14-1.7.5.jar"
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.seamless\seamless-util\1.0-alpha3\2941fe2db53a9df262c5c62270698391d32fe66e\seamless-util-1.0-alpha3.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="33cf4abac351aa45dd130d31a1e7e33fbbba4762">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\slf4j-jdk14-1.7.5-47440406742c591b95c33d6ffe82d40c4e691a6b.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-8ff213fb05ec03462ec5b95c6f2e0ff355eb2a78.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.5.0\a2a55a3375bc1cef830ca426d68d2ea22961190e\jackson-annotations-2.5.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jackson-annotations-2.5.0-1575dcf60756291f1116060a8c3ed9c0878f709f.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-security\8.1.12.v20130726\3e5ba848730a8ca6dc7ee562ebafbb44f49d8abd\jetty-security-8.1.12.v20130726.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3e5ba848730a8ca6dc7ee562ebafbb44f49d8abd">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-security-8.1.12.v20130726-7f25ed3ce672c3a6aee0dd8767abdb86e1ac0ffb.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.fourthline.cling\cling-support\2.0-alpha3\52512ccaaa4f0cc455d9b3b13034982dad2e488a\cling-support-2.0-alpha3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="52512ccaaa4f0cc455d9b3b13034982dad2e488a">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\cling-support-2.0-alpha3-89a6c6c7babf1859a36ed632102a40824d4f87a7.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\classes-502f50f864235b3848f77cb939b260236ce4c347.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-io\8.1.12.v20130726\859ad5da478e34bca888812a81e12cd4dcdef6fd\jetty-io-8.1.12.v20130726.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="859ad5da478e34bca888812a81e12cd4dcdef6fd">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-io-8.1.12.v20130726-3bad2648df0513ecc255d6f2280d63ac5f450ec7.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.5.1\e2a00ad1d7e540ec395e9296a34da484c8888d4d\jackson-core-2.5.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e2a00ad1d7e540ec395e9296a34da484c8888d4d">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jackson-core-2.5.1-db1179487782cbb6b5b06883341593e3157fc46e.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-continuation\8.1.12.v20130726\56983c28a934cb2b8cdfcf3a3fa9b28320f7ac7d\jetty-continuation-8.1.12.v20130726.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="56983c28a934cb2b8cdfcf3a3fa9b28320f7ac7d">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-continuation-8.1.12.v20130726-f22d6903039913c4a5b99d979a0efec63b310e83.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-http\8.1.12.v20130726\530b3a21d71ac69279bee129869d7eac031e3533\jetty-http-8.1.12.v20130726.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="530b3a21d71ac69279bee129869d7eac031e3533">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-http-8.1.12.v20130726-a0b1b217502717ce790985a7de75c4601456c52b.jar" />
+        sha1="2941fe2db53a9df262c5c62270698391d32fe66e">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\seamless-util-1.0-alpha3-4d8fb390b0560de6a5dfd5a49c22aa7654e43217.jar" />
     </item>
     <item
         jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-servlet\8.1.12.v20130726\c0a4cba995dcb585a89c524c16370eb9c393f582\jetty-servlet-8.1.12.v20130726.jar"
@@ -133,6 +133,13 @@
         revision="22.0.1"
         sha1="c0a4cba995dcb585a89c524c16370eb9c393f582">
         <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-servlet-8.1.12.v20130726-0231d66f121582d4833cc457eb11b3344b84a6d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-util\8.1.12.v20130726\255cb3b9a415146252796915d8dc3c3745ff1eb6\jetty-util-8.1.12.v20130726.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="255cb3b9a415146252796915d8dc3c3745ff1eb6">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-util-8.1.12.v20130726-4aa8d04c79bf6672dfe6939747397f6808cb4615.jar" />
     </item>
     <item
         jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
@@ -149,83 +156,6 @@
         <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\okhttp-2.3.0-8841aeb7408e169adfa85cec3d30fc6fd77b336b.jar" />
     </item>
     <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\butterknife-6.1.0-2f6bd03c9667b71cbd9a3d8a6a1aa9a250a1aa8d.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\support-annotations-22.2.0-16472338cf8b4e0469450c7e1d8134529f061785.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\eventbus-2.4.0-a10c866ad4e7e131e773f40bfa412d490c1926ef.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.koushikdutta.urlimageviewhelper\urlimageviewhelper\1.0.4\67125d743e0035a1b157ba8210c2abf1ff374e10\urlimageviewhelper-1.0.4.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="67125d743e0035a1b157ba8210c2abf1ff374e10">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\urlimageviewhelper-1.0.4-2ddd2ff62dd1f95c7b84df762534a4ced6fdab25.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-client\8.1.12.v20130726\9ff9b1c4c27d76888d01447d9341fb95869271c1\jetty-client-8.1.12.v20130726.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9ff9b1c4c27d76888d01447d9341fb95869271c1">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-client-8.1.12.v20130726-7010bafcef799abf95a522f6db73f4744b741ef3.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.seamless\seamless-util\1.0-alpha3\2941fe2db53a9df262c5c62270698391d32fe66e\seamless-util-1.0-alpha3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2941fe2db53a9df262c5c62270698391d32fe66e">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\seamless-util-1.0-alpha3-4d8fb390b0560de6a5dfd5a49c22aa7654e43217.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.5\6b262da268f8ad9eff941b25503a9198f0a0ac93\slf4j-api-1.7.5.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\slf4j-api-1.7.5-9ab239660919d1d0f227233af0dc6bed0f765fb0.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7912610ed96381c25c36d986eba422731b9641b6">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\classes-60cac7ea357f5f79a4954e2b9d2d8c62d28ca3dc.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\javax.jmdns\jmdns\3.4.1\7ba2dcf7effb5ca9b00736b2a066fff3dd01d432\jmdns-3.4.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7ba2dcf7effb5ca9b00736b2a066fff3dd01d432">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jmdns-3.4.1-8987f5fc262c0e5c72759aee4ee901529bcf40e7.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.fourthline.cling\cling-core\2.0-alpha3\965e550cb1e67af1f0c7f6634f600ab8c5c1ce3f\cling-core-2.0-alpha3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="965e550cb1e67af1f0c7f6634f600ab8c5c1ce3f">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\cling-core-2.0-alpha3-e1bcef09abc8a73aa0dfce7f798341011624fa94.jar" />
-    </item>
-    <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.seamless\seamless-swing\1.0-alpha3\ed1cf8b8b3a7650d158d7f22c886c90702a61d60\seamless-swing-1.0-alpha3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ed1cf8b8b3a7650d158d7f22c886c90702a61d60">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\seamless-swing-1.0-alpha3-7f03cdfb8d64bae5212549786e413ff71869b847.jar" />
-    </item>
-    <item
         jar="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -233,11 +163,11 @@
         <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\classes-7e0885c7bf52a09c22b703efaf26407eb14f1673.jar" />
     </item>
     <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-server\8.1.12.v20130726\e8d89c85edd00680a7b30bf219e6dba181dc4aa1\jetty-server-8.1.12.v20130726.jar"
+        jar="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="e8d89c85edd00680a7b30bf219e6dba181dc4aa1">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-server-8.1.12.v20130726-f0583903946c76c8a5eb3ace7a17c9d683f972a3.jar" />
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\pre-dexed\debug\classes-67e47fa1c9ce63e9490ff575448afa1403013b24.jar" />
     </item>
     <item
         jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
@@ -247,11 +177,130 @@
         <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\library-2.4.0-f09923fe5eaa29c509fe4226423176504e1a47a6.jar" />
     </item>
     <item
-        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.5.2\2b4dd13fbe6f8c6b146d4c3b7fd70862f136802d\jackson-databind-2.5.2.jar"
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-http\8.1.12.v20130726\530b3a21d71ac69279bee129869d7eac031e3533\jetty-http-8.1.12.v20130726.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="2b4dd13fbe6f8c6b146d4c3b7fd70862f136802d">
-        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jackson-databind-2.5.2-f1b225dd76413c1feff5ff5925901027c86d486a.jar" />
+        sha1="530b3a21d71ac69279bee129869d7eac031e3533">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-http-8.1.12.v20130726-a0b1b217502717ce790985a7de75c4601456c52b.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.5.1\e2a00ad1d7e540ec395e9296a34da484c8888d4d\jackson-core-2.5.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e2a00ad1d7e540ec395e9296a34da484c8888d4d">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jackson-core-2.5.1-db1179487782cbb6b5b06883341593e3157fc46e.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\pre-dexed\debug\classes-a69ee576b85b757846329038dc07994f3538586f.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-client\8.1.12.v20130726\9ff9b1c4c27d76888d01447d9341fb95869271c1\jetty-client-8.1.12.v20130726.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9ff9b1c4c27d76888d01447d9341fb95869271c1">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-client-8.1.12.v20130726-7010bafcef799abf95a522f6db73f4744b741ef3.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-security\8.1.12.v20130726\3e5ba848730a8ca6dc7ee562ebafbb44f49d8abd\jetty-security-8.1.12.v20130726.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3e5ba848730a8ca6dc7ee562ebafbb44f49d8abd">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-security-8.1.12.v20130726-7f25ed3ce672c3a6aee0dd8767abdb86e1ac0ffb.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.koushikdutta.urlimageviewhelper\urlimageviewhelper\1.0.4\67125d743e0035a1b157ba8210c2abf1ff374e10\urlimageviewhelper-1.0.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="67125d743e0035a1b157ba8210c2abf1ff374e10">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\urlimageviewhelper-1.0.4-2ddd2ff62dd1f95c7b84df762534a4ced6fdab25.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.fourthline.cling\cling-support\2.0-alpha3\52512ccaaa4f0cc455d9b3b13034982dad2e488a\cling-support-2.0-alpha3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="52512ccaaa4f0cc455d9b3b13034982dad2e488a">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\cling-support-2.0-alpha3-89a6c6c7babf1859a36ed632102a40824d4f87a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\javax.jmdns\jmdns\3.4.1\7ba2dcf7effb5ca9b00736b2a066fff3dd01d432\jmdns-3.4.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ba2dcf7effb5ca9b00736b2a066fff3dd01d432">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jmdns-3.4.1-8987f5fc262c0e5c72759aee4ee901529bcf40e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\classes-60cac7ea357f5f79a4954e2b9d2d8c62d28ca3dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-io\8.1.12.v20130726\859ad5da478e34bca888812a81e12cd4dcdef6fd\jetty-io-8.1.12.v20130726.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="859ad5da478e34bca888812a81e12cd4dcdef6fd">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-io-8.1.12.v20130726-3bad2648df0513ecc255d6f2280d63ac5f450ec7.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\classes-502f50f864235b3848f77cb939b260236ce4c347.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\Users\mdimran\Desktop\Pinut_App\Pinut_Codebase\nutlabs_app\app\build\intermediates\pre-dexed\debug\classes-d2055deb5ae2417554cfc1a79e9ca0c4b4882915.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-continuation\8.1.12.v20130726\56983c28a934cb2b8cdfcf3a3fa9b28320f7ac7d\jetty-continuation-8.1.12.v20130726.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56983c28a934cb2b8cdfcf3a3fa9b28320f7ac7d">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jetty-continuation-8.1.12.v20130726-f22d6903039913c4a5b99d979a0efec63b310e83.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-jdk14\1.7.5\33cf4abac351aa45dd130d31a1e7e33fbbba4762\slf4j-jdk14-1.7.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="33cf4abac351aa45dd130d31a1e7e33fbbba4762">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\slf4j-jdk14-1.7.5-47440406742c591b95c33d6ffe82d40c4e691a6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\eventbus-2.4.0-a10c866ad4e7e131e773f40bfa412d490c1926ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-8ff213fb05ec03462ec5b95c6f2e0ff355eb2a78.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\support-annotations-22.2.0-16472338cf8b4e0469450c7e1d8134529f061785.jar" />
+    </item>
+    <item
+        jar="C:\Users\mdimran\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.5.0\a2a55a3375bc1cef830ca426d68d2ea22961190e\jackson-annotations-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="C:\Users\mdimran\Desktop\WiFly\Wiflick_git_sidhu\wiflickhome\app\build\intermediates\pre-dexed\release\jackson-annotations-2.5.0-1575dcf60756291f1116060a8c3ed9c0878f709f.jar" />
     </item>
 
 </items>
